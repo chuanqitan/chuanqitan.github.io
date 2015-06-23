@@ -14,7 +14,7 @@ Note & Article:
 Code & Project:
 ----------------
 
-* [上学时写的几个小游戏](/works/2013/11/15/some-game.html)
+* [上学时写的几个小游戏](/works/2013/11/14/some-game.html)
 
 Other:
 ----------------
