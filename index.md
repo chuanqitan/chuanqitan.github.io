@@ -8,8 +8,8 @@ title: chuanqi TAN
 
 ![avatar](images/avatar.jpg)
 
-前[百度](http://www.baidu.com){:target="_blank"}高级研发工程师
-前[人民搜索](http://www.jike.com){:target="_blank"}研发工程师；
+前[百度](http://www.baidu.com){:target="_blank"}高级研发工程师；
+前[人民搜索](http://www.jike.com){:target="_blank"}研发工程师
 
 [清华大学](http://www.thu.edu.cn){:target="_blank"} 工学博士；
 [北京理工大学](http://www.bit.edu.cn){:target="_blank"} 工学硕士；
