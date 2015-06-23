@@ -6,20 +6,20 @@ categories: works
 ---
 
 
-上学时写的一些小游戏
+上学时的一些小游戏
 
 
 连连看
 -----------
 
-学习Java的处女作，项目代码下载：[LLK.rar](http://www.cppblog.com/Files/hannosogno/LLK.rar)
+学习Java的处女作：[LLK.rar](http://www.cppblog.com/Files/hannosogno/LLK.rar)
 
 ![llk](/images/post/llk1.png)
 
 俄罗斯方块
 ------------
 
-学面向对象编程写的，项目代码下载：[Tetris.rar](http://www.cppblog.com/Files/hannosogno/Tetris.rar)
+面向对象作业：[Tetris.rar](http://www.cppblog.com/Files/hannosogno/Tetris.rar)
 
 
 ![tetris](/images/post/tetris.jpg)
@@ -27,20 +27,17 @@ categories: works
 Trap!
 ---------
 
-计算几何，球之间的相互碰撞解决的不错，项目代码下载：[Trap.rar](http://www.cppblog.com/Files/hannosogno/Trap.rar)
+计算几何：[Trap.rar](http://www.cppblog.com/Files/hannosogno/Trap.rar)
 
 
 ![trap_playing](/images/post/trap_playing.png)
 
 The Game Of Life
------------------
+----------------
 
-很无聊的一个simulation，下载：[The_Game_of_Life.rar](http://www.cppblog.com/Files/hannosogno/Project_The_Game_of_Life.rar)
+很无聊的一个game simulation，下载：[The_Game_of_Life.rar](http://www.cppblog.com/Files/hannosogno/Project_The_Game_of_Life.rar)
 
-
-![TheGameOfLife](/images/post/TheGameOfLife.jpg)
-
-### 介绍
+##### 介绍
 
 与其说是game，其实它更像是一个simulation，在1970年由英国数学家J. H. Conway提出的。The Game of Life的规则很简单：假设有一个无边界的矩形网格（我更喜欢把它称作宇宙，或者universe），这个矩形网格中的每个单元可被一个有机体占据（同样地，我更爱细胞这个词，或者cell）。被占据的单元称为活的（alive），未占据的单元称为死的（dead）。哪一个单元是活的要根据其周围活的邻居单元（neighbor）的数目而一代代（generation）地发生变化，规则如下：
 
@@ -50,3 +47,5 @@ The Game Of Life
 * 一个活的单元，如果具有2个或3个或的邻居单元，则此单元在下一代仍是活的。
 * 如果一个单元是死的，如果它不多不少刚好有3个邻居单元是活的，则在下一代此单元变成活的。所有其他死的单元在下一代仍是死的。
 * 所有的出生和死亡都刚好在同一时间发生，因此正在死亡的单元有助于另一个单元的出生，但它不能通过减少阻塞而组织其他单元的死亡；正在出生的单元也不能保护或杀死上一代中活着的单元。
+
+![TheGameOfLife](/images/post/TheGameOfLife.jpg)
