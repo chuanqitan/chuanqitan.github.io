@@ -8,7 +8,8 @@ title: chuanqi TAN
 
 ![avatar](images/avatar.jpg)
 
-[北京深度智慧科技有限公司][http://www.deepai.com]{:target="_blank"} 技术顾问
+
+[北京深度智慧科技有限公司](http://www.deepai.com){:target="_blank"} 技术顾问
 
 前[百度](http://www.baidu.com){:target="_blank"} 高级研发工程师；
 前[人民搜索](http://www.jike.com){:target="_blank"} 研发工程师
