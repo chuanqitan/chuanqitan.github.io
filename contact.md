@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Contact
+permalink: /contact/
 sort_index: 30
 ---
 
-* Email: ![email address](images/email_address.gif)
-* Phone: ![phone number](images/phone_number.png)
+* Email: ![email address](/images/email_address.gif)
+* Phone: ![phone number](/images/phone_number.png)
 
 
 Mailing Address
