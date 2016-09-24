@@ -4,23 +4,28 @@ title: About Me
 sort_index: 10
 ---
 
-谭川奇
----------
 
 ![avatar](images/avatar.jpg)
 
+<br/>
 
-前[百度](http://www.baidu.com){:target="_blank"}高级研发工程师；
-前[人民搜索](http://www.jike.com){:target="_blank"}高级研发工程师
+Chuanqi Tan
+===========
 
-[清华大学](http://www.thu.edu.cn){:target="_blank"} 计算机博士；
-[北京理工大学](http://www.bit.edu.cn){:target="_blank"} 计算机硕士；
-[天津工业大学](http://www.tjpu.edu.cn){:target="_blank"} 计算机学士
+I am a Ph.D candidate in [Departement of Computer Sciences and Technology](http://www.cs.tsinghua.edu.cn/publish/cs/index.html){:target="_blank"} of [Tsinghua University](http://www.tsinghua.edu.cn){:target="_blank"}.
+
+Before to be a Ph.D student of THU, I used to work as a senior research & develop engineer at [Baidu.com](http://www.baidu.com){:target="_blank"} in 2014
+and as a senior research & develop engineer at [Jike.com](http://www.jike.com){:target="_blank"} at 2012.
 
 
 <br/>
 
-兴趣领域：
------------
+RESEARCH
+===========
 
-Programming, Architecture, Algorithm, Machine Learning, Artificial Intelligence, Search Engine, Robot.
+Machine Learning, Artificial Intelligence, Robot.
+
+INTERESTS
+===========
+
+Programming, Architecture, Algorithm, Search Engine.

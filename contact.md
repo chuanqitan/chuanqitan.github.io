@@ -5,20 +5,25 @@ permalink: /contact/
 sort_index: 30
 ---
 
-* Email: ![email address](/images/email_address.gif)
-* Phone: ![phone number](/images/phone_number.png)
+<br/>
 
+Feel free to cantact me via
+================
+
+* Email: chuanqi.tan # gmail.com 
+* Mobile: +86 152 1050 3230
+
+<br/>
 
 Mailing Address
-----------------
+================
 
-FIT Building, Department of Computer Science and Technology, Tsinghua University
+FIT Building, Tsinghua University, Beijing, P. R. China, 100084
 
-Beijing 100084, P. R. China
-
+<br/>
 
 Social
-----------------
+================
 
 + <a target="_blank" href="http://github.com/chuanqitan">Github</a>
 + <a target="_blank" href="https://plus.google.com/+ChuanQiTan">Google+</a>
