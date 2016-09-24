@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publish
-permalink: /public/
+title: Publications
+permalink: /publications/
 sort_index: 20
 ---
 
