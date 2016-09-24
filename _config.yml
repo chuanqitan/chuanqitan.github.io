@@ -2,7 +2,6 @@
 title: chuanqi TAN
 email:
 description: > # this means to ignore newlines until "baseurl:"
-    A programmer.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://chuanqi.name" # the base hostname & protocol for your site
 twitter_username:
