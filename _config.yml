@@ -1,12 +1,12 @@
 # Site settings
 title: chuanqi TAN
-email: 
+email:
 description: > # this means to ignore newlines until "baseurl:"
-    A programmer. 
+    A programmer.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://chuanqi.name" # the base hostname & protocol for your site
-twitter_username: 
-github_username:  chuanqitan
+twitter_username:
+github_username:
 
 # Build settings
 markdown: kramdown
