@@ -23,9 +23,9 @@ and as a senior research & develop engineer at [Jike.com](http://www.jike.com){:
 RESEARCH
 ===========
 
-Machine Learning, Artificial Intelligence, Robot.
+Artificial Intelligence, Robot.
 
 INTERESTS
 ===========
 
-Programming, Architecture, Algorithm, Search Engine.
+Algorithm, Architecture.
