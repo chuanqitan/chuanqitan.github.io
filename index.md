@@ -28,4 +28,4 @@ Artificial Intelligence, Robot.
 INTERESTS
 ===========
 
-Algorithm, Architecture.
+Algorithm, Design Pattern, Architecture.
