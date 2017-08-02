@@ -26,4 +26,3 @@ Social
 ================
 
 + <a target="_blank" href="http://github.com/chuanqitan">Github</a>
-+ <a target="_blank" href="http://tanchuanqi.com">Blog</a> (in Chinese)

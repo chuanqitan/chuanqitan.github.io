@@ -20,23 +20,25 @@ Project
 Paper
 ----------------
 
+*Only list papers as the first author or second author*.
+
 * Multimodal Classification with Deep Convolutional-Recurrent Neural Networks for Electroencephalography
-, Chuanqi Tan, Fuchun Sun, Wenchang Zhang, Jianhua Chen and Chunfang Liu
+, **Chuanqi Tan** , Fuchun Sun, Wenchang Zhang, Jianhua Chen and Chunfang Liu
 , International Conference On Neural Information Processing, 2017
 
 * Spatial and spectral features fusion for EEG classification during motor imagery in BCI
-, Tan, Chuanqi and Sun, Fuchun and Zhang, Wenchang and Liu, Shaobo and Liu, Chunfang
+, **Tan, Chuanqi** and Sun, Fuchun and Zhang, Wenchang and Liu, Shaobo and Liu, Chunfang
 , Biomedical & Health Informatics (BHI), 2017 IEEE EMBS International Conference on, 2017
 
 * A new method for content-based image retrieval via subsets of key contours fragments
-, Tan, Chuan Qi and Chen, Yu Feng and Li, Feng Xia and Yang, Zhi Zhong
+, **Tan, Chuan Qi** and Chen, Yu Feng and Li, Feng Xia and Yang, Zhi Zhong
 , International Conference On Computing and Data Analysis, 2011
 
 * A Novel and Fast Method for Content-Based Image Retrieval via Stack-Triangles Geometrics Histogram
-, Chen, Yu Feng and Tan, Chuan Qi and Li, Feng Xia and Zhang, Qing Yi
+, Chen, Yu Feng and **Tan, Chuan Qi** and Li, Feng Xia and Zhang, Qing Yi
 , International Conference on Image, Vision and Computing, 2011
 
 * An Effective Visual System for Static Analysis of Source Code
-, Wan, Ying and Tan, Chuan Qi and Wang, Zhi Gang and Wang, Guo Qiang and Hong, Xiao Jin
+, Wan, Ying and **Tan, Chuan Qi** and Wang, Zhi Gang and Wang, Guo Qiang and Hong, Xiao Jin
 , International Conference on Image, Vision and Computing, 2011
 
