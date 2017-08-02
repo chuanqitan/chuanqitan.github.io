@@ -27,5 +27,3 @@ Social
 
 + <a target="_blank" href="http://github.com/chuanqitan">Github</a>
 + <a target="_blank" href="http://tanchuanqi.com">Blog</a> (in Chinese)
-+ <a target="_blank" href="https://plus.google.com/+ChuanQiTan">Google+</a>
-+ <a target="_blank" href="http://weibo.com/u/2462903860">Weibo</a>

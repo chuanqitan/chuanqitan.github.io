@@ -1,5 +1,5 @@
 # Site settings
-title: chuanqi TAN
+title: Chuanqi TAN
 email:
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
