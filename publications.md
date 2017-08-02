@@ -20,7 +20,5 @@ Project
 Paper
 ----------------
 
-*List only the papers as the first author or the second author.*
-
 {% bibliography %}
 
