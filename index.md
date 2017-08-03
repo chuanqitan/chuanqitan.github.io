@@ -12,7 +12,7 @@ sort_index: 10
 Chuanqi Tan
 ===========
 
-I am a Ph.D candidate in [Departement of Computer Sciences and Technology](http://www.cs.tsinghua.edu.cn/publish/cs/index.html){:target="_blank"} of [Tsinghua University](http://www.tsinghua.edu.cn){:target="_blank"}.
+I am a Ph.D. candidate in [Departement of Computer Sciences and Technology](http://www.cs.tsinghua.edu.cn/publish/cs/index.html){:target="_blank"} of [Tsinghua University](http://www.tsinghua.edu.cn){:target="_blank"}.
 
 Before to be a Ph.D. student of Tsinghua University, my work experience are as follows:
 
