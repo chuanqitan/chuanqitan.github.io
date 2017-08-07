@@ -7,22 +7,10 @@ sort_index: 30
 
 <br/>
 
-Feel free to cantact me via
+Feel free to cantact me via:
 ================
 
-* Email: chuanqi.tan # gmail.com 
-* Mobile: +86 152 1050 3230
+* Email: chuanqi.tan ### gmail.com 
+* Address: FIT Building, Tsinghua University, Beijing, P. R. China, 100084
+* <a target="_blank" href="http://github.com/ChuanqiTan">Github</a>
 
-<br/>
-
-Mailing Address
-================
-
-FIT Building, Tsinghua University, Beijing, P. R. China, 100084
-
-<br/>
-
-Social
-================
-
-+ <a target="_blank" href="http://github.com/chuanqitan">Github</a>

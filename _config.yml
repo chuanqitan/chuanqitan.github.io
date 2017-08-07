@@ -1,7 +1,7 @@
 # Site settings
 destination: ./docs
 exclude: ["docs/"]
-title: Chuanqi TAN
+title: Chuanqi Tan
 email:
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
