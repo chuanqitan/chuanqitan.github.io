@@ -5,6 +5,11 @@ permalink: /publications/
 sort_index: 20
 ---
 
+Paper
+----------------
+
+{% bibliography %}
+
 Note
 ---------------
 
@@ -16,9 +21,4 @@ Project
 ----------------
 
 * [Notes and codes](http://code.google.com/p/introduction-to-algorithms-notes/){:target="_blank"} of *Algorithm Introduction*, moved to [github](https://github.com/chuanqitan/introduction-to-algorithms-notes){:target="_blank"} after google code shutdown.
-
-Paper
-----------------
-
-{% bibliography %}
 
