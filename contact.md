@@ -7,7 +7,7 @@ sort_index: 30
 
 <br/>
 
-Feel free to cantact me via:
+Feel free to contact me via:
 ================
 
 * Email: chuanqi.tan ### gmail.com 
