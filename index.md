@@ -12,7 +12,7 @@ sort_index: 10
 Chuanqi Tan
 ===========
 
-I am a Ph.D. candidate in [Department of Computer Sciences and Technology](http://www.cs.tsinghua.edu.cn/publish/cs/index.html){:target="_blank"} of [Tsinghua University](http://www.tsinghua.edu.cn){:target="_blank"}.
+I am a Ph.D. candidate in [Department of Computer Sciences and Technology](http://www.cs.tsinghua.edu.cn/publish/cs/index.html){:target="_blank"} of [Tsinghua University](http://www.tsinghua.edu.cn){:target="_blank"} under the supervision of Prof. [Fuchun Sun](http://www.tsinghua.edu.cn/publish/cs/4616/2013/20130424102559852515182/20130424102559852515182_.html){:target="blank"}.
 
 Before this, my previous works experience are as follows:
 
