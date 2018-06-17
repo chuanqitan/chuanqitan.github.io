@@ -3,35 +3,129 @@ layout: page
 title: Publications
 permalink: /publications/
 sort_index: 20
+javascript:
+    - https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js
+    - https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js
 ---
 
-Paper
+Papers
 ----------------
 
-* Tan, C., Sun, F., & Zhang, W. (2018). Electroencephalography Classification in Brain-Computer Interface with Manifold Constraints Transfer. In The 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBC 2018.
-* Tan, C., Sun, F., Zhang, W, & Kong, T. (2018). Adaptive Adversarial Transfer Learning for Electroencephalography Classification. In The International Joint Conference on Neural Networks, IJCNN 2018.
-* Fuchun, S. U. N., ZHANG, W., Jianhua, C. H. E. N., Hang, W. U., Chuanqi, T. A. N., & Weihua, S. U. (2018). Fused Fuzzy Petri Nets: a shared control method for Brain Computer Interface systems. IEEE Transactions on Cognitive and Developmental Systems.
+* Zhang, Z., Xu, D., Ouyang, W., & Tan, C. (2019). Show, Tell and Summarize: Dense Video Captioning Using Visual Cue Aided Sentence Summarization. IEEE Transactions on Circuits and Systems for Video Technology.
+* Sun, F., Kong, T., Huang, W., Tan, C., Fang, B., & Liu, H. (2019). Feature Pyramid Reconfiguration with Consistent Loss for Object Detection. IEEE Transactions on Image Processing.
+* Zhang, W., Sun, F., Wu, H., Tan, C., & Ma, Y. (2019). Asynchronous brain-computer interface shared control of robotic grasping. Tsinghua Science and Technology, 24(3), 360-370.
+* Fang, B., Sun, F., Liu, H., Tan, C., & Guo, D. (2019). A glove-based system for object recognition via visual-tactile fusion. Science China Information Sciences, 62(5), 50203.
+* Tan, C., Sun, F., Kong, T., Fang, B., & Zhang, W. (2019, April). Attention-based Transfer Learning for Brain-computer Interface. In ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1154-1158). IEEE.
+[\[Paper link\]](https://ieeexplore.ieee.org/abstract/document/8683344){:target="_blank"}
+{% include cite_by_bibtex.html
+bibtex="@inproceedings{tan2019attention,
+  title={Attention-based Transfer Learning for Brain-computer Interface},
+  author={Tan, Chuanqi and Sun, Fuchun and Kong, Tao and Fang, Bin and Zhang, Wenchang},
+  booktitle={ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1154--1158},
+  year={2019},
+  organization={IEEE}
+}" 
+%}
+* Tan, C., Sun, F., Fang, B., Kong, T., & Zhang, W. (2019). Autoencoder-based transfer learning in brain–computer interface for rehabilitation robot. International Journal of Advanced Robotic Systems, 16(2), 1729881419840860.
+[\[Paper link\]](https://journals.sagepub.com/doi/full/10.1177/1729881419840860){:target="_blank"}
+{% include cite_by_bibtex.html
+bibtex="@article{tan2019autoencoder,
+  title={Autoencoder-based transfer learning in brain--computer interface for rehabilitation robot},
+  author={Tan, Chuanqi and Sun, Fuchun and Fang, Bin and Kong, Tao and Zhang, Wenchang},
+  journal={International Journal of Advanced Robotic Systems},
+  volume={16},
+  number={2},
+  pages={1729881419840860},
+  year={2019},
+  publisher={SAGE Publications Sage UK: London, England}
+}" 
+%}
+* Tan, C., Sun, F., Kong, T., Zhang, W., Yang, C., & Liu, C. (2018). A Survey on Deep Transfer Learning. In The 27th International Conference on Artificial Neural Networks, ICANN 2018. 
+[\[Paper link\]](https://link.springer.com/chapter/10.1007/978-3-030-01424-7_27){:target="_blank"}
+[\[Paper at Arxiv\]](https://arxiv.org/abs/1808.01974){:target="_blank"}
+{% include cite_by_bibtex.html
+bibtex="@inproceedings{tan2018survey,
+  title={A Survey on Deep Transfer Learning},
+  author={Tan, Chuanqi and Sun, Fuchun and Kong, Tao and Zhang, Wenchang and Yang, Chao and Liu, Chunfang},
+  booktitle={International Conference on Artificial Neural Networks},
+  pages={270--279},
+  year={2018},
+  organization={Springer}
+}" 
+%}
+* Liu, C., Huang, W., Sun, F., Luo, M., & Tan, C. (2019). LDS-FCM: A Linear Dynamical System Based Fuzzy C-Means Method for Tactile Recognition. IEEE Transactions on Fuzzy Systems, 27(1), 72-83.
+* Tan, C., Sun, F., Zhang, W., & Kong, T. (2018). Electroencephalography Classification in Brain-Computer Interface with Manifold Constraints Transfer. In The 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, IEEE EMBC 2018.
+[\[Paper link\]](https://ieeexplore.ieee.org/abstract/document/8512507){:target="_blank"}
+{% include cite_by_bibtex.html
+bibtex="@inproceedings{tan2018electroencephalography,
+  title={Electroencephalography Classification in Brain-Computer Interface with Manifold Constraints Transfer},
+  author={Tan, Chuanqi and Sun, Fuchun and Zhang, Wenchang and Kong, Tao},
+  booktitle={2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)},
+  pages={1058--1061},
+  year={2018},
+  organization={IEEE}
+}" 
+%}
+* Tan, C., Sun, F., Zhang, W., Kong, T., Yang, C., & Zhang, X. (2018). Adaptive Adversarial Transfer Learning for Electroencephalography Classification. In The International Joint Conference on Neural Networks, IJCNN 2018.
+[\[Paper link\]](https://ieeexplore.ieee.org/abstract/document/8489116){:target="_blank"}
+{% include cite_by_bibtex.html
+bibtex="@inproceedings{tan2018adaptive,
+  title={Adaptive Adversarial Transfer Learning for Electroencephalography Classification},
+  author={Tan, Chuanqi and Sun, Fuchun and Zhang, Wenchang and Kong, Tao and Yang, Chao and Zhang, Xinyu},
+  booktitle={2018 International Joint Conference on Neural Networks (IJCNN)},
+  pages={1--8},
+  year={2018},
+  organization={IEEE}
+}" 
+%}
+* Zhao, J., Zhang, X., Gao, H., Zhou, M., Tan, C., & Chong, X. (2018). DHA: Lidar and Vision data Fusion-based On Road Object Classifier. In The International Joint Conference on Neural Networks, IJCNN 2018.
+* Zhao, J., Zhang, X., Gao, H., Yin, J., Zhou, M., & Tan, C. (2018). Object Detection Based on Hierarchical Multi-view Proposal Network for Autonomous Driving.In The International Joint Conference on Neural Networks, IJCNN 2018.
+* Sun, F., Zhang, W., Chen, J., Wu, H., Tan, C., & Su, W. (2018). Fused Fuzzy Petri Nets: a shared control method for Brain Computer Interface systems. IEEE Transactions on Cognitive and Developmental Systems.
 * Tan, C., Sun, F., & Zhang, W. (2018). Deep Transfer Learning for EEG-based Brain Computer Interface. In The 2018 IEEE International Conference on Acoustics, Speech and Signal Processing, IEEE ICASSP 2018.
+[\[Paper at Arxiv\]](https://arxiv.org/abs/1808.01752){:target="_blank"}
+{% include cite_by_bibtex.html
+bibtex="@inproceedings{tan2018deep,
+  title={Deep Transfer Learning for EEG-Based Brain Computer Interface},
+  author={Tan, Chuanqi and Sun, Fuchun and Zhang, Wenchang},
+  booktitle={2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={916--920},
+  year={2018},
+  organization={IEEE}
+}" 
+%}
 * Zhang, W., Sun, F., Liu, C., Su, W., Tan, C., & Liu, S. (2017). A hybrid EEG-based BCI for robot grasp controlling. In The 2017 IEEE International Conference on Systems, Man, and Cybernetics, IEEE SMC 2017.
-* Tan, C., Sun, F., Zhang, W., Chen, J., & Liu, C. (2017). Multimodal Classification with Deep Convolutional-Recurrent Neural Networks for Electroencephalography. In The 24th International Conference On Neural Information Processing, ICONIP 2017. **Best Student Paper Award**.
+* Tan, C., Sun, F., Zhang, W., Chen, J., & Liu, C. (2017). Multimodal Classification with Deep Convolutional-Recurrent Neural Networks for Electroencephalography. In The 24th International Conference On Neural Information Processing, ICONIP 2017. **Best Student Paper Award**. 
+[\[Paper link\]](https://link.springer.com/chapter/10.1007/978-3-319-70096-0_78){:target="_blank"}
+[\[Paper at Arxiv\]](https://arxiv.org/abs/1807.10641){:target="_blank"}
+{% include cite_by_bibtex.html 
+bibtex="@inproceedings{tan2017multimodal,
+  title={Multimodal Classification with Deep Convolutional-Recurrent Neural Networks for Electroencephalography},
+  author={Tan, Chuanqi and Sun, Fuchun and Zhang, Wenchang and Chen, Jianhua and Liu, Chunfang},
+  booktitle={International Conference on Neural Information Processing},
+  pages={767--776},
+  year={2017},
+  organization={Springer}
+}" 
+%}
 * Tan, C., Sun, F., Zhang, W., Liu, S., & Liu, C. (2017). Spatial and spectral features fusion for EEG classification during motor imagery in BCI. In Biomedical & Health Informatics (BHI), 2017 IEEE EMBS International Conference on (pp. 309–312). IEEE.
+[\[Paper link\]](https://ieeexplore.ieee.org/abstract/document/7897267/){:target="_blank"}
+{% include cite_by_bibtex.html
+bibtex="@inproceedings{tan2017spatial,
+  title={Spatial and spectral features fusion for EEG classification during motor imagery in bci},
+  author={Tan, Chuanqi and Sun, Fuchun and Zhang, Wenchang and Liu, Shaobo and Liu, Chunfang},
+  booktitle={Biomedical \& Health Informatics (BHI), 2017 IEEE EMBS International Conference on},
+  pages={309--312},
+  year={2017},
+  organization={IEEE}
+}" 
+%}
 * Zhang, W., Sun, F., Tan, C., & Liu, S. (2016). Low-Rank Linear Dynamical Systems for Motor Imagery EEG. Computational Intelligence and Neuroscience, 2016.
 * Zhang, W., Sun, F., Tan, C., & Liu, S. (2016). Linear Dynamical Systems Modeling for EEG-Based Motor Imagery Brain-Computer Interface. In International Conference on Cognitive Systems and Signal Processing (pp. 521–528). Springer.
-* Tan, Chuanqi & Sun, Fuchun & Zhang, Wenchang & Liu, Shaobo. (2016). A Synchronous and Closed-Loop Architecture of BCI-Based Rehabilitation System for Stroke with Robot and Virtual Reality. 10.2991/aiie-16.2016.37. 
-* Liu, Shaobo & Sun, Fuchun & Zhang, Wechang & Tan, Chuanqi. (2016). SSVEP Recognition using Wavelet Canonical Correlation Analysis for Brain Computer Interface. 10.2991/icsma-16.2016.87. 
-* Tan, C. Q., Chen, Y. F., Li, F. X., & Yang, Z. Z. (2012). A new method for content-based image retrieval via subsets of key contours fragments. In Advanced Materials Research (Vol. 532, pp. 792–796). Trans Tech Publ.
-* Chen, Y. F., Tan, C. Q., Li, F. X., & Zhang, Q. Y. (2012). A Novel and Fast Method for Content-Based Image Retrieval via Stack-Triangles Geometrics Histogram. In Advanced Materials Research (Vol. 341, pp. 785–789). Trans Tech Publ.
-* Wan, Y., Tan, C. Q., Wang, Z. G., Wang, G. Q., & Hong, X. J. (2012). An Effective Visual System for Static Analysis of Source Code. In Advanced Materials Research (Vol. 433, pp. 5453–5458). Trans Tech Publ.
+* Tan, C., Sun, F., Zhang, W., & Liu, S. (2016). A Synchronous and Closed-Loop Architecture of BCI-Based Rehabilitation System for Stroke with Robot and Virtual Reality. 10.2991/aiie-16.2016.37. 
+* Liu, S., Sun, F., Zhang, W., & Tan, C. (2016). SSVEP Recognition using Wavelet Canonical Correlation Analysis for Brain Computer Interface. 10.2991/icsma-16.2016.87. 
+* Tan, C., Chen, Y., Li, F., & Yang, Z. (2012). A new method for content-based image retrieval via subsets of key contours fragments. In Advanced Materials Research (Vol. 532, pp. 792–796). Trans Tech Publ.
+* Chen, Y., Tan, C., Li, F., & Zhang, Q. (2012). A Novel and Fast Method for Content-Based Image Retrieval via Stack-Triangles Geometrics Histogram. In Advanced Materials Research (Vol. 341, pp. 785–789). Trans Tech Publ.
+* Wan, Y., Tan, C., Wang, Z., Wang, G., & Hong, X. (2012). An Effective Visual System for Static Analysis of Source Code. In Advanced Materials Research (Vol. 433, pp. 5453–5458). Trans Tech Publ.
 
-Note
----------------
-
-* [Notes of *Design Pattern*](/attachment/设计模式.pdf){:target="_blank"}
-* [Notes of *C++ Temple*](/attachment/C++Templates_%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.pdf){:target="_blank"}
-* [Notes of *Inside the C++ Object Model*](/attachment/%E6%B7%B1%E5%BA%A6%E6%8E%A2%E7%B4%A2C++%E5%AF%B9%E8%B1%A1%E6%A8%A1%E5%9E%8B_%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.pdf){:target="_blank"}
-
-Project
-----------------
-
-* [Notes and codes](http://code.google.com/p/introduction-to-algorithms-notes/){:target="_blank"} of *Algorithm Introduction*, moved to [github](https://github.com/chuanqitan/introduction-to-algorithms-notes){:target="_blank"} after google code shutdown.
 

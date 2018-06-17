@@ -1,0 +1,6 @@
+{% assign cite_id = include.bibtex | split: ',' | first | split: '{' | last %} <a role="button" data-toggle="collapse" href="#{{cite_id}}" aria-expanded="false"> [Cite by BibTex] </a>
+<div class="collapse" id="{{cite_id}}">
+<pre>
+{{ include.bibtex }}
+</pre>
+</div>
