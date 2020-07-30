@@ -16,30 +16,10 @@ I received Ph.D. degree in computer sciences and technology from [Tsinghua Unive
 Now, I am a researcher for the [Tencent](https://www.tencent.com/){:target="_blank"} Technology Co., Ltd.
 Before this, my previous works experience are as follows:
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-* Engineering department leader at [TDRHedu](http://www.baike.com/wiki/%E5%A4%A9%E5%9C%B0%E4%BA%BA%E5%92%8C%E6%95%99%E8%82%B2%E9%9B%86%E5%9B%A2){:target="_blank"} in 2015
-=======
-* CTO at [TDRHedu](http://www.baike.com/wiki/%E5%A4%A9%E5%9C%B0%E4%BA%BA%E5%92%8C%E6%95%99%E8%82%B2%E9%9B%86%E5%9B%A2){:target="_blank"} in 2015
->>>>>>> 0ba5e11... up
-* Senior research & develop engineer at [Baidu.com](http://www.baidu.com){:target="_blank"} in 2014
-=======
-* Leader of technical department at [TDRHedu](http://www.baike.com/wiki/%E5%A4%A9%E5%9C%B0%E4%BA%BA%E5%92%8C%E6%95%99%E8%82%B2%E9%9B%86%E5%9B%A2){:target="_blank"} in 2016-2017
-=======
-* Leader of technical department at [TDRHedu](http://www.baike.com/wiki/%E5%A4%A9%E5%9C%B0%E4%BA%BA%E5%92%8C%E6%95%99%E8%82%B2%E9%9B%86%E5%9B%A2){:target="_blank"} (part time work) in 2016-2017
->>>>>>> 2a91fd6... up
-* Manager of technical department at [ztgt.cn](http://www.ztgt.cn){:target="_blank"} in 2014-2015
-* Senior research & develop engineer at [Baidu.com](http://www.baidu.com){:target="_blank"} in 2013-2014
->>>>>>> 54f64f5... up
-* Senior research & develop engineer at Jike.com (renamed to [Chinaso.com](http://www.chinaso.com){:target="_blank"}) in 2012-2013.
-=======
-* Leader of technical department at [TDRH Edu Group](http://www.baike.com/wiki/%E5%A4%A9%E5%9C%B0%E4%BA%BA%E5%92%8C%E6%95%99%E8%82%B2%E9%9B%86%E5%9B%A2){:target="_blank"} (part time work) in 2016-2017
+* Leader of technical department at [TDRH education group](http://www.baike.com/wiki/%E5%A4%A9%E5%9C%B0%E4%BA%BA%E5%92%8C%E6%95%99%E8%82%B2%E9%9B%86%E5%9B%A2){:target="_blank"} (part time work) in 2016-2017
 * Manager of technical department at Ztgt.cn in 2014-2015
 * Senior research & develop engineer at [Baidu.com](http://www.baidu.com){:target="_blank"} in 2013-2014
 * Senior research & develop engineer at Renmin Search Company (renamed to [Chinaso.com](http://www.chinaso.com){:target="_blank"}) in 2012-2013.
->>>>>>> 2e0cb92... up
 
 
 <br/>
