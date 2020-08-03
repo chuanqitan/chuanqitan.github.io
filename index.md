@@ -16,10 +16,10 @@ I received Ph.D. degree in computer sciences and technology from [Tsinghua Unive
 Now, I am a researcher for the [Tencent](https://www.tencent.com/){:target="_blank"} Technology Co., Ltd.
 Before this, my previous works experience are as follows:
 
-* Leader of technical department at [TDRH education group](http://www.baike.com/wiki/%E5%A4%A9%E5%9C%B0%E4%BA%BA%E5%92%8C%E6%95%99%E8%82%B2%E9%9B%86%E5%9B%A2){:target="_blank"} (part time work) in 2015
-* Manager of technical department at [Ztgt Company](https://baike.baidu.com/item/%E4%B8%AD%E6%8A%95%E5%9B%BD%E6%B3%B0%EF%BC%88%E5%8C%97%E4%BA%AC%EF%BC%89%E6%8A%95%E8%B5%84%E7%AE%A1%E7%90%86%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8){:target="_blank"} in 2015
-* Senior research & develop engineer at [Baidu.com](http://www.baidu.com){:target="_blank"} in 2013-2014
-* Senior research & develop engineer at Renmin Search Company (renamed to [Chinaso.com](http://www.chinaso.com){:target="_blank"}) in 2012-2013.
+* Leader of technical department at [TDRH education group](http://www.baike.com/wiki/%E5%A4%A9%E5%9C%B0%E4%BA%BA%E5%92%8C%E6%95%99%E8%82%B2%E9%9B%86%E5%9B%A2){:target="_blank"} (part time work) in 2015.
+* Manager of technical department at [Ztgt Company](https://baike.baidu.com/item/%E4%B8%AD%E6%8A%95%E5%9B%BD%E6%B3%B0%EF%BC%88%E5%8C%97%E4%BA%AC%EF%BC%89%E6%8A%95%E8%B5%84%E7%AE%A1%E7%90%86%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8){:target="_blank"} in 2015.
+* Senior research & develop engineer at [Baidu.com](http://www.baidu.com){:target="_blank"} in 2013-2014.
+* Senior research & develop engineer at Renmin Search Company (renamed to [China Search](http://www.chinaso.com){:target="_blank"}) in 2012-2013.
 
 
 <br/>
