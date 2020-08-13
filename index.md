@@ -32,7 +32,7 @@ Artificial Intelligence, Deep Learning, Transfer Learning, Computer Vision, Robo
 ACADEMIC
 ===========
 
-Reviewer of: 
+Invited Reviewer of: 
 * ACTA Automatica Sinica
 * International Conference on Artificial Neural Networks (ICANN)
 * International Conference on Cognitive Systems and Information Processing (ICCSIP)
