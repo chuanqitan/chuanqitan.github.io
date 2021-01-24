@@ -33,6 +33,7 @@ ACADEMIC
 ===========
 
 Invited Reviewer of: 
+* AAAI Conference on Artificial Intelligence (AAAI)
 * ACTA Automatica Sinica
 * International Conference on Artificial Neural Networks (ICANN)
 * International Conference on Cognitive Systems and Information Processing (ICCSIP)
