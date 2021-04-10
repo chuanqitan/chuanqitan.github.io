@@ -10,8 +10,7 @@ sort_index: 10
 <br/>
 
 
-I received Ph.D. degree in computer sciences and technology from [Tsinghua University](http://www.tsinghua.edu.cn){:target="_blank"} in July 2019, under the supervision of Prof. Fuchun Sun. During my doctoral study,  I visited MM Lab of the [University of Sydney](https://www.sydney.edu.au/){:target="_blank"} as a joint Ph.D. student with the support of CSC Scholarship, working with Prof. Dong Xu.
-My research interests include: Artificial Intelligence, Deep Learning, Transfer Learning, Computer Vision and Robot.
+I received Ph.D. degree in computer sciences and technology from [Tsinghua University](http://www.tsinghua.edu.cn){:target="_blank"} in July 2019, under the supervision of Prof. Fuchun Sun. During my doctoral study,  I visited MM Lab of the [University of Sydney](https://www.sydney.edu.au/){:target="_blank"} as a joint Ph.D. student with the support of CSC Scholarship, working with Prof. Dong Xu. My research interests include: Artificial Intelligence, Deep Learning, Transfer Learning, Computer Vision and Robot.
 
 
 Work Experience
