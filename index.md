@@ -55,7 +55,7 @@ Awards
 ===========
 
 * [Excellence Research and Development Award of Tencent](images/Excellence_RD_award.jpg){:target="_blank"}, 2020
-* [Outstanding Contributor of Tencent](images/tencent_awards.jpg){:target="_blank"}, 2020
+* Outstanding Contributor of Tencent, 2020
 * Good+ Contributor of Tencent, 2019
 * Outstanding Performance Award of Tencent, 2019
 * CSC Scholarship, 2018
