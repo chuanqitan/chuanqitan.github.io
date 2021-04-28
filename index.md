@@ -10,7 +10,7 @@ sort_index: 10
 <br/>
 
 
-I received Ph.D. degree in computer sciences and technology from [Tsinghua University](http://www.tsinghua.edu.cn){:target="_blank"} in July 2019, under the supervision of Prof. Fuchun Sun. During my doctoral study,  I visited MM Lab of the [University of Sydney](https://www.sydney.edu.au/){:target="_blank"} as a joint Ph.D. student with the support of CSC Scholarship, working with Prof. Dong Xu. My research interests include: Artificial Intelligence, Deep Learning, Transfer Learning, Computer Vision and Robot.
+I received Ph.D. degree in computer sciences and technology from [Tsinghua University](http://www.tsinghua.edu.cn){:target="_blank"} in July 2019, under the supervision of Prof. Fuchun Sun. During my doctoral study,  I visited MM Lab of the [University of Sydney](https://www.sydney.edu.au/){:target="_blank"} as a joint Ph.D. student with the support of CSC Scholarship, working with Prof. Dong Xu. My research interests include: Artificial Intelligence, Deep Learning, Transfer Learning, Computer Vision, BCI and Robot.
 
 
 Work Experience
@@ -61,5 +61,5 @@ Awards
 * CSC Scholarship, 2018
 * [Best Student Paper Award](images/ICONIP_2017_Best_Student_Paper.jpg){:target="_blank"} from ICONIP 2017. 
 * Excellent Graduate Student of BIT, 2011
-* IBM Blue Road Intern Award, 2011
+* IBM Blue Road Award, 2011
 * BIT Scholarship, 2009
